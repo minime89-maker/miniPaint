@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Windows 95 Paint</title>
+</head>
+<body>
+
+  
+<div class="main-container">
+
+    <!-- Canvas -->
+    <div class="canvas-border">
+        <div class="nav">
+    <!-- Navigation Buttons -->
+            <button id="save" type="button">Save</button>
+            <button aria-label="LinkedIn Profile Page" id='linkedIn'>LinkedIn</button>
+            <button aria-label="Xing Profile Page" id='xing'>Xing</button>
+            <button aria-label="GitHub Profile Page" id="gitHub">GitHub</button>
+            <button aria-label="New Canvas" id="clear" type="button">X</button>
+        </div>
+        <div class="top"></div>
+            <canvas id="paint-canvas" width="1086" height="400"></canvas>
+    </div>
+
+    <!-- Colors -->
+  <div class="colors">
+    <button value="#000000"></button>
+    <button value="#fff"></button>
+    <button value="#808080"></button>
+    <button value="#c0c0c0"></button>
+    <button value="#800102"></button>
+    <button value="#ff0302"></button>
+    <button value="#808000"></button>
+    <button value="#ffff04"></button>
+    <button value="#048001"></button>
+    <button value="#00ff00"></button>
+    <button value="#048080"></button>
+    <button value="#00ffff"></button>
+    <button value="#000080"></button>
+    <button value="#0000ff"></button>
+    <button value="#800180"></button>
+    <button value="#ff04ff"></button>
+    <button value="#808040"></button>
+    <button value="#ffff80"></button>
+    <button value="#004040"></button>
+    <button value="#00ff80"></button>
+    <button value="#0480ff"></button>
+    <button value="#80ffff"></button>
+    <button value="#004080"></button>
+    <button value="#8080ff"></button>
+    <button value="#4001ff"></button>
+    <button value="#ff0380"></button>
+    <button value="#804000"></button>
+    <button value="#ff8040"></button>
+</div>
+    <input id="brush" type="range" value="1" min="1" max="10" step="1">
+    <!-- Custom Logo -->
+    <img src="/img/Logo.svg" alt="Custom Paint Logo">
+
+</div>
+
+<!-- Start Menu -->
+<div class="start">
+    <button aria-label="Home Page" id="start"><input type="image" src="/img/win95-logo.svg.png">Start</button>
+    <button id="untitled">untitled - Paint</button>
+    <button aria-label="Current Time" id="clock"></button>
+</div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ==" crossorigin="anonymous"></script>
+<script src="app.js"></script>
+</body>
+</html>

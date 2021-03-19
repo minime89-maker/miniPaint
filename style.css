@@ -1,0 +1,222 @@
+@font-face {
+  font-family: W95;
+  src: url(/W95font/w95fa.woff);
+}
+body {
+  background: #00827d;
+  height: 100%;
+  width: 80%;
+}
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px 30px;
+  position: absolute;
+}
+/* Canvas */
+canvas {
+  cursor: crosshair;
+  background-color: #fff;
+  border: 2px double #808080;
+}
+.canvas-border {
+  margin-left: 30px;
+  border-bottom: 100px solid #c0c0c0;
+  border-left: 30px solid #c0c0c0;
+  border-right: 30px solid #c0c0c0;
+}
+#brush {
+  margin-top: -30px;
+  width: 200px;
+}
+/* Colors */
+.colors {
+  position: relative;
+  width: 35%;
+  margin-top: -90px;
+  margin-left: -650px;
+}
+.colors button {
+  position: relative;
+  outline: none;
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+}
+.colors button:nth-of-type(1) {
+  background-color: #000000;
+}
+.colors button:nth-of-type(2) {
+  background-color: #fff;
+}
+.colors button:nth-of-type(3) {
+  background-color: #808080;
+}
+.colors button:nth-of-type(4) {
+  background-color: #c0c0c0;
+}
+.colors button:nth-of-type(5) {
+  background-color: #800102;
+}
+.colors button:nth-of-type(6) {
+  background-color: #ff0302;
+}
+.colors button:nth-of-type(7) {
+  background-color: #808000;
+}
+.colors button:nth-of-type(8) {
+  background-color: #ffff04;
+}
+.colors button:nth-of-type(9) {
+  background-color: #048001;
+}
+.colors button:nth-of-type(10) {
+  background-color: #00ff00;
+}
+.colors button:nth-of-type(11) {
+  background-color: #048080;
+}
+.colors button:nth-of-type(12) {
+  background-color: #00ffff;
+}
+.colors button:nth-of-type(13) {
+  background-color: #000080;
+}
+.colors button:nth-of-type(14) {
+  background-color: #0000ff;
+}
+.colors button:nth-of-type(15) {
+  background-color: #800180;
+}
+.colors button:nth-of-type(16) {
+  background-color: #ff04ff;
+}
+.colors button:nth-of-type(17) {
+  background-color: #808040;
+}
+.colors button:nth-of-type(18) {
+  background-color: #ffff80;
+}
+.colors button:nth-of-type(19) {
+  background-color: #004040;
+}
+.colors button:nth-of-type(20) {
+  background-color: #00ff80;
+}
+.colors button:nth-of-type(21) {
+  background-color: #0480ff;
+}
+.colors button:nth-of-type(22) {
+  background-color: #80ffff;
+}
+.colors button:nth-of-type(23) {
+  background-color: #004080;
+}
+.colors button:nth-of-type(24) {
+  background-color: #8080ff;
+}
+.colors button:nth-of-type(25) {
+  background-color: #4001ff;
+}
+.colors button:nth-of-type(26) {
+  background-color: #ff0380;
+}
+.colors button:nth-of-type(27) {
+  background-color: #804000;
+}
+.colors button:nth-of-type(28) {
+  background-color: #ff8040;
+}
+
+/* Navigation */
+.nav {
+  margin-left: -31px;
+  width: 105.7%;
+  height: 40px;
+  background: #03037b;
+}
+/* Navigation Buttons */
+.nav button {
+  width: 100px;
+  height: 30px;
+  box-shadow: inset 0px 0px 0px 2px #808080;
+  background-color: #c0c0c0;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  text-align: center;
+  font-family: "W95";
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.nav button:last-child {
+  width: 30px;
+  height: 30px;
+  float: right;
+  margin-right: 4px;
+}
+.nav button:active {
+  box-shadow: 0px 0px 0px 3px #808080;
+  font-size: 19px;
+}
+/* Border */
+.top {
+  border: 20px solid #c0c0c0;
+}
+
+/* Custom Logo */
+img {
+  margin-left: 1050px;
+  margin-top: -30px;
+}
+
+/* Start Menu */
+.start {
+  position: fixed;
+  bottom: 0;
+  width: 99.6%;
+  height: 40px;
+  border: 1px solid #c0c0c0;
+  margin-left: -6px;
+  background-color: #c0c0c0;
+}
+.start button {
+  font-weight: bold;
+  height: 30px;
+  width: 100px;
+  box-shadow: inset 0px 0px 0px 2px #808080;
+  background-color: #c0c0c0;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  text-align: center;
+  font-family: "W95";
+  margin: 5px 8px;
+}
+#clock {
+  float: right;
+  width: fit-content;
+  background: #fff;
+}
+
+#start input[type="image"] {
+  width: 30px;
+  height: 22px;
+  text-align: center;
+  padding-right: 5px;
+}
+#start:active {
+  box-shadow: 0px 0px 0px 3px #808080;
+  font-size: 21px;
+}
+#untitled {
+  width: 170px;
+  background: #fff;
+  padding-top: 8px;
+}
+#untitled:active {
+  box-shadow: 0px 0px 0px 3px #808080;
+  font-size: 21px;
+}
