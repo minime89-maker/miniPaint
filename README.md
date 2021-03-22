@@ -1,4 +1,6 @@
-# <img width="1440" alt="miniPaint" src="https://user-images.githubusercontent.com/77694499/111997931-d478da80-8b1b-11eb-9115-63fd1b70edb1.png">
+<img width="1440" alt="miniPaint" src="https://user-images.githubusercontent.com/77694499/111997931-d478da80-8b1b-11eb-9115-63fd1b70edb1.png">
+
+# miniPaint
 <table>
 <tr>
 <td>
@@ -6,6 +8,7 @@
 </td>
 </tr>
 </table>
+
 
 ## Bulit with
 - Figma - visualize ✏️
