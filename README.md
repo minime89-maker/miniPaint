@@ -1,4 +1,4 @@
-# ![miniPaint](https://user-images.githubusercontent.com/77694499/111989981-beb2e780-8b12-11eb-8029-a6678f0a9187.png)
+<img width="1440" alt="miniPaint" src="https://user-images.githubusercontent.com/77694499/111997931-d478da80-8b1b-11eb-9115-63fd1b70edb1.png">
 <table>
 <tr>
 <td>
