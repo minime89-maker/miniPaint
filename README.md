@@ -1,20 +1,60 @@
-<img width="1440" alt="miniPaint" src="https://user-images.githubusercontent.com/77694499/111997931-d478da80-8b1b-11eb-9115-63fd1b70edb1.png">
+## mini Paint web app 🖌️  
+  
 
-# miniPaint
-<table>
-<tr>
-<td>
-  Webpage with combination of Win95 design concept and power of web developer big 3️⃣ html canvas with some css and mighty javaSript
-</td>
-</tr>
-</table>
-
-
-## Bulit with
-- Figma - visualize ✏️
-- HTML - core 🌳
-- CSS - pretty 👌
-- JavaScript - power ⚡️
+<a href="https://github.com/minime89-maker" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/minja_ppp" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/milijan-popovic" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
 
 
-MIT © [Minja Popovic ](https://github.com/minime89-maker)
+
+### Glad to see you here!  
+I’m a not yet a Web Developer 👨‍💻 but I am trying since 2021 🚀  
+  
+
+<br/>  
+
+
+## miniPaint  
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/NuCF6dhnZFWEdru8Vs/giphy.gif" align="center" height="" width="" />
+</div>  
+
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
+</div>  
+
+<br/>  
+
+
+
+### What? How? Why?  
+- tiny combination of Windows 95 design with a little help of web languages
+- design in Figma, get HTML canvas, style with CSS, and  make it work in JavaScript 
+- Gain some new knowledge and make Fun 😀  
+
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
+
+<br/>  
