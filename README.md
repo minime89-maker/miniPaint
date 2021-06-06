@@ -1,61 +1,34 @@
-## mini Paint web app 🖌️  
-  
+# 👨‍🎨 Paint Website
 
-<a href="https://github.com/minime89-maker" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/minja_ppp" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/milijan-popovic" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+This is a Paint website based on Windows 95 style.
 
+It is implementing using JS + Canvas API :
+- 🖌 Different brush sizes
+- 🎨 Color pallet with all basic colors 
+- 🖼  Canvas frame to unleash your potential
 
-
-## Glad to see you here!  
-I’m a not yet a Web Developer 👨‍💻 but I am trying since 2021 🚀  
+✅  Save as PNG file option to show your masterpiece to other  
   
 
 <br/>  
 
 
-### miniPaint  
-<a href="https://mini-paint.vercel.app/" target="_blank">
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media.giphy.com/media/NuCF6dhnZFWEdru8Vs/giphy.gif" align="center" height="" width="" />
-</div>  
-
-
-<br/>  
-
-
-## Languages and Tools  
+## Which tools ?  
+This version of Paint website is accomplished using :
+- Figma for wireframe and prototype 
+- <a href='https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API'>Canvas API</a> + JavaScript
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
-</div>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />  
+</div>
+  
+  
 
 <br/>  
 
 
+## 📺  Live version  
+A <a href='https://mini-paint-a4enix1ep-minja.vercel.app/'>live version</a> can be found here !   
 
-### What? How? Why?  
-- tiny combination of Windows 95 design with a little help of web languages
-- design in Figma, get HTML canvas, style with CSS, and  make it work in JavaScript 
-- Gain some new knowledge and make Fun 😀  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+<br />
